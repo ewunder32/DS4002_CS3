@@ -8,7 +8,7 @@ This repository contains all code, documentation, and outputs for DS4002 Project
 - **RUBRIC**
   -  The rubric outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
 - **DATA**
-  - The image data can be obtained from FiveThirtyEight linked here. The Materials folder contains several images for various states, but there are more states to choose from on FiveThirtyEight. Additionally, you can find the declination angle (i.e., the numeric representation of the degree of partisan gerrymandering in a state) here, which you will use to verify the results of your image analysis.
+  - The image data can be obtained from Download daily OHLCV CSV for ticker PLTR from Macrotrends. Save as MacroTrends_Data_Download_PLTR.csv. 
 
 - **REFERENCES**: 
 
