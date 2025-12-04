@@ -1,6 +1,6 @@
 # DS4002 Case Study - Predicting Palantir stock prices based on price history and keywords in the world news
-
-<img width="784" height="353" alt="image" src="https://github.com/user-attachments/assets/19bf9940-457e-4764-9f3a-abd67c825791" /> <img width="232" height="174" alt="image" src="https://github.com/user-attachments/assets/644661d9-2d4d-491b-8d10-aa59bbe825fb" />
+<img width="232" height="174" alt="image" src="https://github.com/user-attachments/assets/644661d9-2d4d-491b-8d10-aa59bbe825fb" />
+<img width="784" height="353" alt="image" src="https://github.com/user-attachments/assets/19bf9940-457e-4764-9f3a-abd67c825791" /> 
 
 
 
